@@ -1,0 +1,1 @@
+{"name":"vnpt-contract-studio","version":"1.0.0","private":true,"scripts":{"test":"node tests/drive.cjs && node tests/smoke.cjs"},"devDependencies":{"playwright":"^1.58.0","jszip":"^3.10.1"}}
